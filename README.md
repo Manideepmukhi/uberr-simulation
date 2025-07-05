@@ -11,7 +11,7 @@ It models the **full ride lifecycle**, **driver allocation**, and **fare computa
 | Component        | Tech            |
 |------------------|-----------------|
 | Backend Framework | Django (Python) |
-| Database         | SQLite (Dev) / PostgreSQL (Prod ready) |
+| Database         | MYSQL |
 | ORM              | Django ORM |
 | Background Tasks | Django `management commands` |
 | Admin Interface  | Django Admin Panel |
